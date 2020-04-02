@@ -205,7 +205,7 @@
       "displayName": "Git Repository URL",
       "description": "The URL of the repository with your application source code.",
       "required": true,
-      "value": "https://github.com/josequaresma/bamboo-openshift.git"
+      "value": "https://github.com/CxRustySides/bamboo-openshift.git"
     },
     {
       "name": "SOURCE_REPOSITORY_REF",
